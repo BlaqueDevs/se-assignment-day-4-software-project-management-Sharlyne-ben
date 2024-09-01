@@ -38,10 +38,20 @@ Work Breakdown Structure (WBS): A WBS is a hierarchical decomposition of the pro
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
+A detailed project schedule helps in tracking progress, managing time effectively, identifying dependencies, and allocating resources efficiently.
+Gantt Charts are visual tools that help in planning and scheduling projects. They show task durations, dependencies, and progress, making it easier to manage timelines and coordinate team efforts.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+The software should target specific pain points or inefficiencies that significantly impact the target audience. These issues might be related to productivity, communication, cost, or operational challenges that the software can alleviate.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+Clearly defining the problem ensures that the development process remains focused on addressing the actual needs of the users, leading to more effective and targeted solutions.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
