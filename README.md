@@ -13,9 +13,16 @@ Effective cost control ensures that the project stays within budget, avoiding fi
 Strategies to prevent budget overeuns include: detailed project planning, continuous monitoring of expenses, using cost estimation tools, regular financial audits, and scope management to prevent scope creep.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-
+Agile:
+Advantages: Flexibility, iterative progress, continuous feedback, and adaptability to change.
+Disadvantages: Can be challenging for teams unfamiliar with iterative processes, requires close collaboration and may lead to scope creep if not managed properly.
+Waterfall:
+Advantages: Clear structure, well-defined stages, easier to manage with strict timelines and budgets.
+Disadvantages: Inflexibility to change, issues discovered late in the project can be costly, and it’s less effective for projects with evolving requirements.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
