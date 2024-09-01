@@ -28,9 +28,17 @@ Beneficial for: Projects with well-defined requirements, strict regulations, and
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
+Methods: Implementing automated testing, code reviews, continuous integration and deployment, user acceptance testing, and maintaining detailed documentation.
+Importance: High-quality standards ensure that the software meets user needs, reduces bugs, and enhances user satisfaction and reliability.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+ Defining the project scope is crucial for clear boundaries on what the project will deliver, helping prevent scope creep and ensuring all stakeholders are aligned.
+Work Breakdown Structure (WBS): A WBS is a hierarchical decomposition of the project into smaller, manageable components. It is useful for organizing and defining the total work scope, assigning responsibilities, and tracking progress.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
